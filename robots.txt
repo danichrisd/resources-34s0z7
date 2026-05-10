@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://danichrisd.github.io/resources-34s0z7/sitemap.xml
